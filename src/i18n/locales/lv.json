@@ -1,0 +1,11 @@
+{
+  "navigation": {
+    "home": "Sākums",
+    "about": "Par mums",
+    "contact": "Kontakti"
+  },
+  "welcome": {
+    "title": "Laipni lūdzam",
+    "description": "Laipni lūdzam mūsu daudzvalodu vietnē"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "welcome": {
+    "title": "Bienvenido",
+    "description": "Bienvenido a nuestro sitio web multilingüe"
+  }
+}
